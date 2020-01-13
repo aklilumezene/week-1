@@ -1,5 +1,3 @@
-# week-1
-CV for week assignment.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,41 +6,42 @@ CV for week assignment.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MyCv</title>
-    
-
 </head>
 <body>
 <div class="outerall">
   <div class="outermost1">
       <div class="hedname">
-        <div> 
-           <div class="akl">
-            <h1 ><span class="aklunderline">Aklilu</span></h1>
+        <div class="akl">
+            <h1 ><span class="akloverline">Aklilu</span></h1>
            <h1 ><span class="mezunderline">Mezene</span>Tsigie</h1>
-           </div> 
+        </div> 
+        <div class="akldetial">
            <p class="namestrong">
                Given Name: Aklilu<br>
                Family Name: Mezene Tsigie<br>
                Marital Status: Married<br>
                Date of Birth: 21 October 1973<br>
                place Of Birth: Addis Ababa Ethiopia<br>
-          </ps>
-       </div> 
-      </div>
+          </p>
+        </div> 
+       </div>
      <div class="hedphoto">
-            <img src="kilophoto.jpg" alt="a picture of aklilu" style="width: 200px;">
+            <img src="kilophoto.jpg" alt="a picture of Aklilu" style="width: 200px;">
+     </div>
+     <div class="helphoto">
+        <img src="mi35.jpg" alt="a picture of Helicopter" style="width: 400px;">
      </div>
   </div>  
 <div class="outermost">
   <div class="inner1">
     <div class="coltop">
-       <h1 class="subHds">Profile</h1>
+     <h1 class="subHds">Profile</h1>
         <P>
-        A trained aviator with rich practical and theoritical<br>
+        A trained aviator with rich practical and theoretical<br>
         back grounds.Efficient at employing computer and different<br>
         softwares to accomplish tasks in a productive way.I have taken<br>
         Training on Microsoft office and Networking.I can be easily<br>
-        trained to new softwares and applications easily.<br>
+        trained to new softwares and applications.<br>
         </P>
     </div>
     <div class="colmiddle">
@@ -110,11 +109,11 @@ CV for week assignment.
         <div class="skills">
             <h1 class="subhds">skills</h1>
             <ul>
-              <li><b>Expertise in flight operations and Safety</b>></li>
+              <li><b>Expertise in flight operations and Safety</b></li>
               <li><b>Native speaking Amharic,Level 2 Mandarin and a Good <br>Command
                  of English</b></li>
-              <li><b>Can use computer applications to find information and <br>process data</b></li>
-              <li><b>Flying Helicopters</b></li>
+              <li><b>Can use computer applications to search information and <br>process data</b></li>
+              <li><b>To Fly Helicopters</b></li>
             </ul>
      </div>
     </div> 
